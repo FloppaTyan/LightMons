@@ -1,0 +1,2 @@
+# LightMons
+Addon fakemons

@@ -1,2 +1,2 @@
 # LightMons
-Addon fakemons
+Adds Fakemon from Cosmi's Amber & Chrome regions!

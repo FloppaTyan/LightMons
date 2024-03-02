@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:fleava",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:fleava",
+      "model": "cobblemon:fleava.geo",
+      "texture": "cobblemon:textures/pokemon/fleava/fleava.png",
+      "layers": [
+	  {
+        "name": "glow",
+        "texture": "cobblemon:textures/pokemon/fleava/fleava_emissive.png",
+        "emissive": true
+      }
+	  ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/fleava/fleava_shiny.png",
+	  "layers": [
+	  {
+        "name": "glow",
+        "texture": "cobblemon:textures/pokemon/fleava/fleava_shiny_emissive.png",
+        "emissive": true
+      }
+	  ]
+    }
+	]
+}

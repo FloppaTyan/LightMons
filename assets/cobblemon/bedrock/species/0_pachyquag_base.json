@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:pachyquag",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pachyquag",
+      "model": "cobblemon:pachyquag.geo",
+      "texture": "cobblemon:textures/pokemon/pachyquag/pachyquag.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/pachyquag/pachyquag_shiny.png"
+    }
+  ]
+}

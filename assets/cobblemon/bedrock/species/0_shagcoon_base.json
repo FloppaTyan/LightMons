@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:shagcoon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shagcoon",
+      "model": "cobblemon:shagcoon.geo",
+      "texture": "cobblemon:textures/pokemon/shagcoon/shagcoon.png",
+      "layers": [
+	  {
+        "name": "glow",
+        "texture": "cobblemon:textures/pokemon/shagcoon/shagcoon_emissive.png",
+        "emissive": true
+      }
+	  ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/shagcoon/shagcoon_shiny.png",
+	  "layers": [
+	  {
+        "name": "glow",
+        "texture": "cobblemon:textures/pokemon/shagcoon/shagcoon_emissive.png",
+        "emissive": true
+      }
+	  ]
+    }
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:haiproto",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:haiproto",
+      "model": "cobblemon:haiproto.geo",
+      "texture": "cobblemon:textures/pokemon/haiproto/haiproto.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/haiproto/haiproto_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:chiteon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chiteon",
+      "model": "cobblemon:chiteon.geo",
+      "texture": "cobblemon:textures/pokemon/chiteon/chiteon.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/chiteon/chiteon_shiny.png"
+    }
+  ]
+}

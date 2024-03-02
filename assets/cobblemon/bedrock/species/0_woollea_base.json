@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:woollea",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:woollea",
+      "model": "cobblemon:woollea.geo",
+      "texture": "cobblemon:textures/pokemon/woollea/woollea.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/woollea/woollea_shiny.png"
+    }
+  ]
+}

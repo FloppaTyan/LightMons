@@ -1,0 +1,34 @@
+{
+  "head": "head",
+  "portraitScale": 3,
+  "portraitTranslation": [0.2, -2.8, 0],
+  "profileScale": 1.5,
+  "profileTranslation": [0, -0.5, 0],
+  "cry":  "bedrock(haiproto, cry)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": ["look", "bedrock(haiproto, ground_idle)"]
+  },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": ["WALK"],
+      "animations": ["bedrock(haiproto, ground_walk)"]
+    },
+    "floating": {
+      "poseName": "floating",
+      "transformTicks": 10,
+      "poseTypes": ["FLOAT"],
+      "animations": ["bedrock(haiproto, water_idle)"]
+    },
+    "swimming": {
+      "poseName": "swimming",
+      "transformTicks": 10,
+      "poseTypes": ["SWIM"],
+      "animations": ["bedrock(haiproto, water_swim)"]
+    }
+  }
+}

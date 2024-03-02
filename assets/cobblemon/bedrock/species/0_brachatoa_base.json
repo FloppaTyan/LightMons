@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:brachatoa",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:brachatoa",
+      "model": "cobblemon:brachatoa.geo",
+      "texture": "cobblemon:textures/pokemon/brachatoa/brachatoa.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/brachatoa/brachatoa_shiny.png"
+    }
+  ]
+}

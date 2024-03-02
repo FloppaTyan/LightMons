@@ -1,0 +1,13 @@
+{ 
+  "pack": {
+    "pack_format": 15,
+    "description": "LightMons (Fakemons) for Cobblemon!"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "English",
+      "region": "Mixed",
+      "bidirectional": false
+    }
+  }
+}

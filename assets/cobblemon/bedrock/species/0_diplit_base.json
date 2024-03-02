@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:diplit",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:diplit",
+      "model": "cobblemon:diplit.geo",
+      "texture": "cobblemon:textures/pokemon/diplit/diplit.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/diplit/diplit_shiny.png"
+    }
+  ]
+}

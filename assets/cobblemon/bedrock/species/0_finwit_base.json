@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:finwit",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:finwit",
+      "model": "cobblemon:finwit.geo",
+      "texture": "cobblemon:textures/pokemon/finwit/finwit.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/finwit/finwit_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:poldra",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:poldra",
+      "model": "cobblemon:poldra.geo",
+      "texture": "cobblemon:textures/pokemon/poldra/poldra.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/poldra/poldra_shiny.png"
+    }
+  ]
+}

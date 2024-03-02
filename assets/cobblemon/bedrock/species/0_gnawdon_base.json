@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:gnawdon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gnawdon",
+      "model": "cobblemon:gnawdon.geo",
+      "texture": "cobblemon:textures/pokemon/gnawdon/gnawdon.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/gnawdon/gnawdon_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:flufling",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:flufling",
+      "model": "cobblemon:flufling.geo",
+      "texture": "cobblemon:textures/pokemon/flufling/flufling.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/flufling/flufling_shiny.png"
+    }
+  ]
+}

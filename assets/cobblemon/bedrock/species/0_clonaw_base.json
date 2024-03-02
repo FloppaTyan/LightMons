@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:clonaw",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:clonaw",
+      "model": "cobblemon:clonaw.geo",
+      "texture": "cobblemon:textures/pokemon/clonaw/clonaw.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/clonaw/clonaw_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:yigami",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:yigami",
+      "model": "cobblemon:yi_gami.geo",
+      "texture": "cobblemon:textures/pokemon/yigami/yi_gami.png",
+      "layers": [
+	  ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/yigami/yi_gami_shiny.png",
+	  "layers": [
+	  ]
+    }
+	]
+}

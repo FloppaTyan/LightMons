@@ -1,0 +1,50 @@
+{
+    "pokemon.pachyquag.cry": {
+        "sounds": [ "cobblemon:pokemon/pachyquag/pachyquag_cry" ]
+    },
+    "pokemon.probog.cry": {
+        "sounds": [ "cobblemon:pokemon/probog/probog_cry" ]
+    },
+    "pokemon.gooajah.cry": {
+        "sounds": [ "cobblemon:pokemon/gooajah/gooajah_cry" ]
+    },
+    "pokemon.haiproto.cry": {
+        "sounds": [ "cobblemon:pokemon/haiproto/haiproto_cry" ]
+    },
+    "pokemon.finwit.cry": {
+        "sounds": [ "cobblemon:pokemon/finwit/finwit_cry" ]
+    },
+    "pokemon.dunklex.cry": {
+        "sounds": [ "cobblemon:pokemon/dunklex/dunklex_cry" ]
+    },
+    "pokemon.diplit.cry": {
+        "sounds": [ "cobblemon:pokemon/diplit/diplit_cry" ]
+    },
+    "pokemon.camagma.cry": {
+        "sounds": [ "cobblemon:pokemon/camagma/camagma_cry" ]
+    },
+    "pokemon.brachatoa.cry": {
+        "sounds": [ "cobblemon:pokemon/brachatoa/brachatoa_cry" ]
+    },
+    "pokemon.wombit.cry": {
+        "sounds": [ "cobblemon:pokemon/wombit/wombit_cry" ]
+    },
+    "pokemon.gnawdon.cry": {
+        "sounds": [ "cobblemon:pokemon/gnawdon/gnawdon_cry" ]
+    },
+    "pokemon.fuzzapiller.cry": {
+        "sounds": [ "cobblemon:pokemon/fuzzapiller/fuzzapiller_cry" ]
+    },
+    "pokemon.shagcoon.cry": {
+        "sounds": [ "cobblemon:pokemon/shagcoon/shagcoon_cry" ]
+    },
+    "pokemon.masomoth.cry": {
+        "sounds": [ "cobblemon:pokemon/masomoth/masomoth_cry" ]
+    },
+    "pokemon.flufling.cry": {
+        "sounds": [ "cobblemon:pokemon/flufling/flufling_cry" ]
+    },
+    "pokemon.woollea.cry": {
+        "sounds": [ "cobblemon:pokemon/woollea/woollea_cry" ]
+    }
+}

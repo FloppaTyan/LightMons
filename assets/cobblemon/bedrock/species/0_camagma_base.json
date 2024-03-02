@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:camagma",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:camagma",
+      "model": "cobblemon:camagma.geo",
+      "texture": "cobblemon:textures/pokemon/camagma/camagma.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/camagma/camagma_shiny.png"
+    }
+  ]
+}

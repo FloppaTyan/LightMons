@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:crawny",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:crawny",
+      "model": "cobblemon:crawny.geo",
+      "texture": "cobblemon:textures/pokemon/crawny/crawny.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/crawny/crawny_shiny.png"
+    }
+  ]
+}

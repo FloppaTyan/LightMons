@@ -1,0 +1,25 @@
+{
+   "enabled": true,
+   "neededInstalledMods": [],
+   "neededUninstalledMods": [],
+   "spawns": [
+       {
+           "id": "gnawdon-1",
+           "pokemon": "gnawdon",
+           "presets": [
+               "natural"
+           ],
+           "type": "pokemon",
+           "context": "grounded",
+           "bucket": "common",
+           "level": "26-45",
+           "weight": 2,
+           "condition": {
+               "canSeeSky": true,
+               "biomes": [
+			       "minecraft:swamp"
+               ]
+           }
+       }
+   ]
+}

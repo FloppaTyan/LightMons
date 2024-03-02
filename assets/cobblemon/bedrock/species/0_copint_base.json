@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:copint",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:copint",
+      "model": "cobblemon:copint.geo",
+      "texture": "cobblemon:textures/pokemon/copint/copint.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/copint/copint_shiny.png"
+    }
+  ]
+}

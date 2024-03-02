@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:driby",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:driby",
+      "model": "cobblemon:driby.geo",
+      "texture": "cobblemon:textures/pokemon/driby/driby.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/driby/driby_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:masomoth",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:masomoth",
+      "model": "cobblemon:masomoth.geo",
+      "texture": "cobblemon:textures/pokemon/masomoth/masomoth.png",
+      "layers": [
+	  {
+        "name": "glow",
+        "texture": "cobblemon:textures/pokemon/masomoth/masomoth_emissive.png",
+        "emissive": true
+      }
+	  ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/masomoth/masomoth_shiny.png",
+	  "layers": [
+	  {
+        "name": "glow",
+        "texture": "cobblemon:textures/pokemon/masomoth/masomoth_emissive.png",
+        "emissive": true
+      }
+	  ]
+    }
+	]
+}

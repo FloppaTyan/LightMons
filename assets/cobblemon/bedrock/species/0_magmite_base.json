@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:magmite",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:magmite",
+      "model": "cobblemon:magmite.geo",
+      "texture": "cobblemon:textures/pokemon/magmite/magmite.png",
+      "layers": [
+	  {
+        "name": "glow",
+        "texture": "cobblemon:textures/pokemon/magmite/magmite_emissive.png",
+        "emissive": true
+      }
+	  ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/magmite/magmite_shiny.png",
+	  "layers": [
+	  {
+        "name": "glow",
+        "texture": "cobblemon:textures/pokemon/magmite/magmite_shiny_emissive.png",
+        "emissive": true
+      }
+	  ]
+    }
+	]
+}
